@@ -1,8 +1,8 @@
 # Script Use: 20.440 Team Project 
 # Team: Amanda Hornick and Amy Stoddard 
-# Author: Amanda Hornick, modified by AES 
+# Author: Amanda Hornick, modified by AES for liver 
 # Date Last Edited: 3/29/2020
-# Script Description: Analylecs of lecngle cell RNA-seq data for murine small intestine endothelial cells 
+# Script Description: Analylecs of single cell RNA-seq data for murine liver endothelial cells 
 
 
 # Load Seurat library for single cell sequencing data analytics
